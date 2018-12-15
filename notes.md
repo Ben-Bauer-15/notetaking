@@ -5,3 +5,7 @@ What is going to be the best approach for the minesweeper game logic? It should 
 ### 12/9/18
 
 The class should have in its constructor the desired game difficulty. Harder games will have larger boards and more mines.
+
+### 12/15/18
+
+Finished working on game logic. That was a lot of fun to figure out. Now the challenge is to work on creating robust logic for multiplayer modes. 
