@@ -9,3 +9,6 @@ The class should have in its constructor the desired game difficulty. Harder gam
 ### 12/15/18
 
 Finished working on game logic. That was a lot of fun to figure out. Now the challenge is to work on creating robust logic for multiplayer modes. 
+
+### 12/16/18
+
