@@ -13,4 +13,8 @@ Finished working on game logic. That was a lot of fun to figure out. Now the cha
 ### 12/17/18
 
 Today I worked more on multiplayer modes. I implemented a choice between public and private rooms.  Starting to think I should be focusing more on the front end because the project looks messy right now.  I also need to modularize the components more for the same reason.  
+
+### 12/18/18
+
+I ran into an annoying bug today. Can't forget to change the IP the server is running on, or else it will be very hard to debug!
  
