@@ -10,5 +10,7 @@ The class should have in its constructor the desired game difficulty. Harder gam
 
 Finished working on game logic. That was a lot of fun to figure out. Now the challenge is to work on creating robust logic for multiplayer modes. 
 
-### 12/16/18
+### 12/17/18
+
+Today I worked more on multiplayer modes. I implemented a choice between public and private rooms.  Starting to think I should be focusing more on the front end because the project looks messy right now.
 
