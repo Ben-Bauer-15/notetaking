@@ -18,3 +18,6 @@ Today I worked more on multiplayer modes. I implemented a choice between public 
 
 I ran into an annoying bug today. Can't forget to change the IP the server is running on, or else it will be very hard to debug!
  
+### 12/19/19
+
+Today I figured out how to send emails via Node.js. Turns out that it's very easy. Sending texts, however, is not easy unfortunately 
