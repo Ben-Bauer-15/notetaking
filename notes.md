@@ -21,3 +21,7 @@ I ran into an annoying bug today. Can't forget to change the IP the server is ru
 ### 12/19/18
 
 Today I figured out how to send emails via Node.js. Turns out that it's very easy. Sending texts, however, is not easy unfortunately 
+
+### 12/20/18
+
+Worked on some multiplayer logic concerning restarting games. Also beefed up security for login by disabling submission if fields are no good.
