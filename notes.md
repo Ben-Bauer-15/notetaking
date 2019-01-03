@@ -25,3 +25,7 @@ Today I figured out how to send emails via Node.js. Turns out that it's very eas
 ### 12/20/18
 
 Worked on some multiplayer logic concerning restarting games. Also beefed up security for login by disabling submission if fields are no good.
+
+##1/2/19
+
+Practiced interview questions today.
