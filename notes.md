@@ -29,3 +29,7 @@ Worked on some multiplayer logic concerning restarting games. Also beefed up sec
 ##1/2/19
 
 Practiced interview questions today.
+
+### 1/3/19
+
+More interview practice.
