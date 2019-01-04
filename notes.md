@@ -33,3 +33,7 @@ Practiced interview questions today.
 ### 1/3/19
 
 More interview practice.
+
+### 1/4/19
+
+Worked on algos.
