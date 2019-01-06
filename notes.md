@@ -37,3 +37,7 @@ More interview practice.
 ### 1/4/19
 
 Worked on algos.
+
+### 1/6/19
+
+Worked on the portfolio page yesterday and today.
