@@ -41,3 +41,7 @@ Worked on algos.
 ### 1/6/19
 
 Worked on the portfolio page yesterday and today.
+
+### 1/8/19
+
+Worked on the resume for career services.
