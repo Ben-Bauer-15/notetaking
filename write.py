@@ -17,7 +17,13 @@ def sleepAppendText():
         date += 1
         sleep(5)
 
-
 sleepAppendText()
 
+
+# python -u "/Users/bbauer/Desktop/notes/write.py"
+
+
+#         git add notes.md
+#         git commit -m 'latest changes'
+#         git push
 

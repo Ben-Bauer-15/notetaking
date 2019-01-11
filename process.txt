@@ -1,7 +1,15 @@
 #!/bin/bash
 
-git add .
-git commit -m 'latest changes'
-git push
+python -u "/Users/bbauer/Desktop/notes/write.py"
+
+COUNTER=2
+    while [ $COUNTER -gt 0 ]; do
+        git add notes.md
+        git commit -m 'latest changes'
+        git push
+        echo The counter is $COUNTER
+        let COUNTER=COUNTER+1 
+        sleep 5
+    done
 
 exec bash
