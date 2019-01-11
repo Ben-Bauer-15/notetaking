@@ -46,6 +46,8 @@ Worked on the portfolio page yesterday and today.
 
 Worked on the resume for career services.
 
+### 1/10/19
 
+Worked on the hangman project
 
 
