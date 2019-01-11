@@ -47,12 +47,5 @@ Worked on the portfolio page yesterday and today.
 Worked on the resume for career services.
 
 
- ### 1/10/19
 
- worked on the hangman app
- ### 1/11/19
 
- worked on the hangman app
- ### 1/12/19
-
- worked on the hangman app
