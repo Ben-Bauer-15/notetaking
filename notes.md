@@ -50,3 +50,7 @@ Worked on the resume for career services.
 
  worked on the hangman app
 
+ ### 1/16/19
+
+ I was driving all day today, but yesterday I finished working on functionality for multiplayer hangman
+
