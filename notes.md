@@ -54,3 +54,7 @@ Worked on the resume for career services.
 
  I was driving all day today, but yesterday I finished working on functionality for multiplayer hangman
 
+ ### 1/17/19
+
+ Made it to Denver today. Tomorrow the work begins!
+
