@@ -58,3 +58,7 @@ Worked on the resume for career services.
 
  Made it to Denver today. Tomorrow the work begins!
 
+ ### 1/18/19
+
+ Continued working on some hangman functionality. Started learning the D3 library
+
