@@ -62,3 +62,7 @@ Worked on the resume for career services.
 
  Continued working on some hangman functionality. Started learning the D3 library
 
+ ### 1/24/19
+
+ Worked a lot today on a D3 bar chart. 
+
