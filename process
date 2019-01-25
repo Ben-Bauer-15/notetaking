@@ -1,0 +1,23 @@
+#!/bin/bash
+
+day=25
+echo $day
+
+
+sudo python -u "/home/ubuntu/notetaking/process.py" $day
+
+sudo git add notes.md
+sudo git commit -m 'test'
+sudo git push
+
+sleep 5
+
+
+let day=$((day+1))
+echo $day
+
+sudo python -u "/home/ubuntu/notetaking/process.py" $day
+
+sudo git add notes.md
+sudo git commit -m 'test'
+sudo git push
