@@ -68,8 +68,5 @@ Worked on the resume for career services.
 
 
 
- ### 1/25/19 
- worked on the hangman app
-
  ### 1/26/19 
  worked on the hangman app
