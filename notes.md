@@ -66,3 +66,7 @@ Worked on the resume for career services.
 
  Worked a lot today on a D3 bar chart. Tried out a node module for slider bars for angular.
 
+
+
+ ### 1/26/19 
+ worked on the hangman app
