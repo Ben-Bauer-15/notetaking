@@ -67,16 +67,3 @@ Worked on the resume for career services.
  Worked a lot today on a D3 bar chart. 
 
 
-
- ### 1/26/19 
- worked on the hangman app
-
- ### 1/27/19 
- worked on the hangman app
-
-
- ### 1/26/19 
- worked on the hangman app
-
- ### 1/27/19 
- worked on the hangman app
