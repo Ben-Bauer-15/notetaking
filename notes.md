@@ -66,3 +66,6 @@ Worked on the resume for career services.
 
  Worked a lot today on a D3 bar chart. Tried out a node module for slider bars for angular.
 
+### 2/14/19
+
+Happy V-Day! Didn't code much today but worked on some networking.
