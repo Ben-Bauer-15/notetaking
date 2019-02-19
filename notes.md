@@ -70,3 +70,6 @@ Worked on the resume for career services.
 
 Happy V-Day! Didn't code much today but worked on some networking.
 
+### 2/18/19
+
+The networking/job apps really started in earnest today.
